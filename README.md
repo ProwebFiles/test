@@ -1,6 +1,6 @@
 # README
 
-Новый снипет for your extension "proweb-js-snippets". After writing up a brief description, we recommend including the following sections.
+## Сниппет с подсказками для HTML, CSS, JAVASCRIPT
 
 ## Features
 
