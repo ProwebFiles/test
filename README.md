@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://proweb.uz/" target="_blank">PROWEB</a> 
+# README
 
 Новый снипет for your extension "proweb-js-snippets". After writing up a brief description, we recommend including the following sections.
 
